@@ -13,3 +13,12 @@ const plantingWhat = {
    "fruits": ["lemon"]
 }
 ```
+### Languages that I use
+- C#
+- Java
+- JavaScript
+- C++
+- HTML
+- CSS
+- YAML
+- ~~electrons~~
