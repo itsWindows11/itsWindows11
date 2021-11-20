@@ -7,6 +7,8 @@
 	import 'fluent-svelte/theme.css';
 </script>
 
-<h1>Hello world</h1>
-<Button variant="accent">fff</Button>
-<Button variant="hyperlink">fff</Button>
+<div class="container">
+	<h1 style="padding: 10px;">Hello world</h1>
+	<Button style="margin-left:10px;" variant="accent">fff</Button>
+	<Button variant="hyperlink">fff</Button>
+</div>
