@@ -9,3 +9,4 @@
 
 <h1>Hello world</h1>
 <Button variant="accent">fff</Button>
+<Button variant="hyperlink">fff</Button>
