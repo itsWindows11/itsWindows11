@@ -11,7 +11,7 @@
 </script>
 
 <h2>Hello!</h2>
-<TextBlock style="margin-top: 10px;margin-bottom:10px;">This is a work in progress site and you shouldn't visit this yet!</TextBlock>
+<TextBlock style="margin-top: 10px;margin-bottom:10px;">This is a work in progress site and you shouldn't visit this yet unless you are told to!</TextBlock>
 <br>
 <Button on:click={() => window.history.back()}>Go back to your place</Button>
 
