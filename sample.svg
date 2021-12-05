@@ -1,6 +1,9 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    
 <foreignObject width="100" height="100">
+    
     <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>svg {user-select:none;}button {padding:10px;}</style>
         <ul>
             <li>text</li>
         </ul>
