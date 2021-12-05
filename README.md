@@ -38,3 +38,5 @@ const plantingWhat = {
     </div>
 </foreignObject>
 </svg>
+
+![](./sample.svg)
