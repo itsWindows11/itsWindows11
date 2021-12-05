@@ -4,6 +4,7 @@
     
     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>svg {user-select:none;}button {padding:10px;}</style>
+        <link rel="stylesheet" href="./style.css">
         <ul>
             <li>text</li>
         </ul>
