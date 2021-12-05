@@ -23,4 +23,4 @@ const plantingWhat = {
 - YAML
 - ~~electrons~~
 
-<button>test</button>
+<button style="background:#fff;color:#000;border-radius:3px;padding:10px;">test</button>
