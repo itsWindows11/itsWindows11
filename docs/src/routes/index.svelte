@@ -29,7 +29,7 @@
 	<svelte:fragment slot="content">
 		<Button
 			variant="hyperlink"
-			href="https://github.com/itsWindows11"}>GitHub</Button
+			href="https://github.com/itsWindows11">GitHub</Button
 		>
 		<Button
 			variant="hyperlink"
