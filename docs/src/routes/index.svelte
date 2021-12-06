@@ -19,11 +19,8 @@
 </script>
 
 <h2>Hello!</h2>
-<TextBlock style="margin-top: 10px;margin-bottom:10px;"
-	>This is a work in progress site and you shouldn't visit this yet unless you are told to!</TextBlock
->
 <br />
-<TextBlock style="margin-bottom:10px;"
+<TextBlock style="margin-bottom:10px;margin-top:10px;"
 	>I'm named after that operating system that some people complain about.<br />If you would like to
 	check out who am I, let's continue reading together:</TextBlock
 >
