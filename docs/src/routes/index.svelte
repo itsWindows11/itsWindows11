@@ -20,7 +20,7 @@
 
 <h2>Hello!</h2>
 <br />
-<TextBlock style="margin-bottom:10px;margin-top:10px;"
+<TextBlock style="margin-bottom:10px;"
 	>I'm named after that operating system that some people complain about.<br />If you would like to
 	check out who am I, let's continue reading together:</TextBlock
 >
