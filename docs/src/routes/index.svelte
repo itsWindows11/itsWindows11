@@ -35,6 +35,7 @@
 			variant="hyperlink"
 			href="https://reddit.com/u/itsWindows11">Reddit</Button
 		>
+                <Button variant="hyperlink" href="https://discord.gg/cbDZxaJFpd">My server</Button>
 		<br />
 		<TextBlock style="margin-top:3px;">Discord: SimpleBear#2721</TextBlock><br /><TextBlock
 			>(spoiler: i dont know why is my discord name different)</TextBlock
@@ -55,6 +56,18 @@
 			<li>HTML, CSS and JavaScript</li>
 			<li>YAML</li>
 			<li><s>electrons</s></li>
+		</ul>
+	</svelte:fragment>
+</Expander>
+
+<Expander style="margin-top:10px;">
+	My apps and projects
+	<svelte:fragment slot="content">
+		<TextBlock>I made some projects and apps, the list is very small right now but this list will expand over time, here's all the apps I made:</TextBlock>
+		<ul style="margin-left: 30px;margin-top:10px">
+			<li><a href="https://github.com/itsWindows11/WordpadUWP">Wordpad UWP</a></li>
+			<li><a href="https://github.com/itsWindows11/Carpeddit">Carpeddit</a> (WIP)</li>
+			<li><a href="https://github.com/itsWindows11/HobbyOS">HobbyOS</a> (coming soon)</li>
 		</ul>
 	</svelte:fragment>
 </Expander>
