@@ -21,7 +21,7 @@
 <h2>Hello!</h2>
 <TextBlock style="margin-bottom:10px;margin-top:5px;"
 	>I'm named after that operating system that some people complain about.<br />If you would like to
-	check out who am I, let's continue reading together:</TextBlock
+	check out who am I, let's continue reading together :)</TextBlock
 >
 <br />
 <Expander style="margin-top:10px;">
@@ -65,9 +65,17 @@
 	<svelte:fragment slot="content">
 		<TextBlock>I made some projects and apps, the list is very small right now but this list will expand over time, here's all the apps I made:</TextBlock>
 		<ul style="margin-left: 30px;margin-top:10px">
-			<li><a href="https://github.com/itsWindows11/WordpadUWP">Wordpad UWP</a></li>
+			<li><a href="https://github.com/itsWindows11/TowPad">TowPad (formerly Wordpad UWP)</a></li>
 			<li><a href="https://github.com/itsWindows11/Carpeddit">Carpeddit</a> (WIP)</li>
 			<li><a href="https://github.com/itsWindows11/HobbyOS">HobbyOS</a> (coming soon)</li>
 		</ul>
+	</svelte:fragment>
+</Expander>
+
+<Expander style="margin-top:10px;">
+	About me, in depth
+	<svelte:fragment slot="content">
+		<TextBlock>I started development when I was around 15, the first app I made was in Java, after that I started focusing on other programming languages but couldn't learn them. I started getting interest in programming again at 17 so I started developing some Android apps and tried C#, right now I prefer C# over Java because of the property getters/setters, easy way to make async methods etc...<br />I usually like to be lazy, and I'm busy sometimes so I'm not available 24/7, I don't really like playing sports but I do play some such as football (or soccer), running etc...<br /> I only do programming when I need.<br />Anyways, I hope you liked my story :)</TextBlock>
+		
 	</svelte:fragment>
 </Expander>
