@@ -75,7 +75,7 @@
 <Expander style="margin-top:10px;">
 	About me, in depth
 	<svelte:fragment slot="content">
-		<TextBlock>I started development when I was around 15, the first app I made was in Java, after that I started focusing on other programming languages but couldn't learn them. I started getting interest in programming again at 17 so I started developing some Android apps and tried C#, right now I prefer C# over Java because of the property getters/setters, easy way to make async methods etc...<br />I usually like to be lazy, and I'm busy sometimes so I'm not available 24/7, I don't really like playing sports but I do play some such as football (or soccer), running etc...<br /> I only do programming when I need.<br />Anyways, I hope you liked my story :)</TextBlock>
+		<TextBlock>I was born in October 2000, so I'm 21 right now.<br />I started development when I was around 15, the first app I made was in Java, after that I started focusing on other programming languages but couldn't learn them. I started getting interest in programming again at 17 so I started developing some Android apps and tried C#, right now I prefer C# over Java because of the property getters/setters, easy way to make async methods etc...<br />I usually like to be lazy, and I'm busy sometimes so I'm not available 24/7, I don't really like playing sports but I do play some such as football (or soccer), running etc...<br /> I only do programming when I need.<br />Anyways, I hope you liked my story :)</TextBlock>
 		
 	</svelte:fragment>
 </Expander>
