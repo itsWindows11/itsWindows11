@@ -35,7 +35,6 @@
 			variant="hyperlink"
 			href="https://reddit.com/u/itsWindows11">Reddit</Button
 		>
-                <Button variant="hyperlink" href="https://discord.gg/cbDZxaJFpd">My server</Button>
 		<br />
 		<TextBlock style="margin-top:3px;">Discord: SimpleBear#2721</TextBlock><br /><TextBlock
 			>(spoiler: i dont know why is my discord name different)</TextBlock
