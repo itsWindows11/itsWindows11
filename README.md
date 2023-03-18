@@ -1,14 +1,15 @@
-Hi, I’m @itsWindows11
-- I’m currently learning C++ and plain C
+Welcome to my boring profile.
 
-If you see me anywhere, do not hesitate to say hi (apparently do not = do)
+### Stats you may care about
 
-### Languages that I use
+![SimpleBear's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsWindows11&theme=dracula&show_icons=true&count_private=true)
+
+### Languages that I regularly use
 - C#
 - Java
 - JavaScript
-- C++
-- HTML
+- Some C++
+- Some HTML
 - CSS
 - YAML
 - ~~electrons~~
@@ -16,5 +17,4 @@ If you see me anywhere, do not hesitate to say hi (apparently do not = do)
 ### How to contact me?
 
 Telegram: https://t.me/SimpleBear3775
-
-For more information, visit https://itswin11.netlify.app
+Website: https://itswin11.netlify.app (might get a domain name soon but until then ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯)
