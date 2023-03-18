@@ -16,5 +16,6 @@ Welcome to my boring profile.
 
 ### How to contact me?
 
+Email: itswin11@outlook.com
 Telegram: https://t.me/SimpleBear3775
 Website: https://itswin11.netlify.app (might get a domain name soon but until then ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯)
