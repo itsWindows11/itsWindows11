@@ -2,12 +2,14 @@ Welcome to my boring profile.
 
 ## Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsWindows11)
+
 ![SimpleBear's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsWindows11&theme=dark&show_icons=true&count_private=true)
 
 ## Languages that I regularly use
 - C#
 - Java
-- JavaScript
+- Some JS/TS
 - Some C++
 - Some HTML
 - CSS
