@@ -9,11 +9,11 @@ Welcome to my boring profile.
 ## Languages that I regularly use
 - C#
 - Java
+- Kotlin
 - Some JS/TS
 - Some C++
 - Some HTML
 - CSS
-- YAML
 - ~~electrons~~
 
 Website: https://itswin11.netlify.app (might get a domain name soon but until then ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯)
