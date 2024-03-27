@@ -6,7 +6,7 @@ Welcome to my boring profile.
 
 ![SimpleBear's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsWindows11&theme=dark&show_icons=true&count_private=true)
 
-## Languages that I regularly use
+## Languages that I regularly use.
 - C#
 - Java
 - Kotlin
