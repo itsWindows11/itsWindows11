@@ -1,4 +1,4 @@
-Welcome to my boring profile.
+Welcome to my boring profile
 
 ## Stats
 
